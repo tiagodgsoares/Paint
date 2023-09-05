@@ -5,8 +5,8 @@
 "Simple Graphics Painter" is a Java application that provides a basic paint simulation using the SimpleGraphics library. It offers an intuitive interface for creating and manipulating a grid of cells with various actions:
 
 - Navigation: Move the painter using arrow keys to navigate the grid.
-- Drawing: Press 'D' key to paint cells with a green color.
-- Erasing: Press 'E' key to delete current cell.
+- Drawing: Press 'D' key to paint the current cell.
+- Erasing: Press 'E' key to delete the current cell.
 - Saving: Save your artwork with the 'S' key.
 
 This project demonstrates fundamental Java programming concepts, including object-oriented design, event handling, and file operations. It serves as a practical example of creating a simple painting application in Java.
@@ -17,4 +17,4 @@ The project is developed in Java and utilizes the SimpleGraphics library for gra
 
 ### About:
 
-This project was created during the Academia de Código bootcamp, developed between May and August 2023. To learn more about Academia de Código, visit their website at www.academiadecodigo.org.
+This project was created during the Academia de Código bootcamp, between May and August 2023.
